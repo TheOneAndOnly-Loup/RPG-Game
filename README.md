@@ -1,8 +1,8 @@
 # RPG-Game
 
 To do:
-- Add a check if the character lost after the while loops
+- ~~Add a check if the character lost after the while loops~~
 - ~~Change UML diagram to remove the score counter~~
 - ~~Update unused functions in the UML diagram~~
-- Think about refractoring the while loops to have less repetition
-- Test the code
+- ~~Think about refractoring the while loops to have less repetition~~
+- ~~Test the code~~
